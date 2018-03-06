@@ -7,6 +7,8 @@
 <title>Hello World</title>
 </head>
 <body>
-Homepage for /helloworld, the url for the Servlet is /helloworld/HelloWorldServlet  
+<h2> This is the homepage for /helloworld, the url for the Servlet is /helloworld/HelloWorldServlet/ </h2>
+<h2> If you modify the sample, /[.war file name] is the path to the homepage, the url for the Servlet is /[.war file name]/[Servlet name]/ </h2>
+  
 </body>
 </html>
