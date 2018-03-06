@@ -7,8 +7,14 @@
 <title>Hello World</title>
 </head>
 <body>
-<h2> This is the homepage for /helloworld, the url for the Servlet is /helloworld/HelloWorldServlet/ </h2>
-<h2> If you modify the sample, /[.war file name] is the path to the homepage, the url for the Servlet is /[.war file name]/[Servlet name]/ </h2>
-  
+<h2> This is the homepage for helloworld Java App</h2>
+
+<ul>
+<li> The url for the Servlet is <a href="./HelloWorldServlet">./HelloWorldServlet</a> </li>
+
+<li> If you modify the sample, <b>/[.war file name]</b> is the path to the homepage, <br>
+     the url for the Servlet is <b>/[.war file name]/[Servlet name]</b> </li>
+</ul>
+
 </body>
 </html>
