@@ -1,3 +1,12 @@
+---
+page_type: sample
+languages:
+- java
+products:
+- azure
+description: "This sample demonstarates a Hello World app for Azure App Service Linux"
+urlFragment: java-docs-hello-world
+---
 
 # Azure App Service on Linux
 
