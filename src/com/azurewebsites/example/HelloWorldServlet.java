@@ -29,7 +29,7 @@ public class HelloWorldServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.setContentType("text/html");
         PrintWriter printWriter  = response.getWriter();
-        printWriter.println("<h1>Hello World Servlet running on Azure App Service on Linux!</h1>");
+        printWriter.println("<h1>Hello World Servlet running on Azure App Service on Linux! modified by Shankar</h1>");
 	}
 
 	/**
